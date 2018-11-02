@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: 942bcb6bbafb10e4988d3aaf1825090c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Body
+    100004: Body_001
+    100006: Body_002
+    100008: Body_003
+    100010: Body_004
+    100012: Body_005
+    100014: Body_006
+    100016: BT_Shark_
+    100018: Head
+    100020: Head_001
+    100022: Master_Bone
+    100024: Shark_Armature
+    100026: V1
+    100028: V1_001
+    100030: V1_002
+    100032: V1_003
+    100034: V1_004
+    100036: V1_005
+    100038: V1_006
+    100040: V1_007
+    100042: V1_008
+    100044: V1_009
+    100046: V1_010
+    100048: V1_011
+    100050: V1_012
+    100052: V1_013
+    100054: V1_014
+    100056: V1_015
+    100058: V1_016
+    100060: V1_017
+    100062: V1_018
+    100064: V1_019
+    100066: V1_020
+    100068: V1_021
+    100070: V1_023
+    100072: V1_025
+    400000: //RootNode
+    400002: Body
+    400004: Body_001
+    400006: Body_002
+    400008: Body_003
+    400010: Body_004
+    400012: Body_005
+    400014: Body_006
+    400016: BT_Shark_
+    400018: Head
+    400020: Head_001
+    400022: Master_Bone
+    400024: Shark_Armature
+    400026: V1
+    400028: V1_001
+    400030: V1_002
+    400032: V1_003
+    400034: V1_004
+    400036: V1_005
+    400038: V1_006
+    400040: V1_007
+    400042: V1_008
+    400044: V1_009
+    400046: V1_010
+    400048: V1_011
+    400050: V1_012
+    400052: V1_013
+    400054: V1_014
+    400056: V1_015
+    400058: V1_016
+    400060: V1_017
+    400062: V1_018
+    400064: V1_019
+    400066: V1_020
+    400068: V1_021
+    400070: V1_023
+    400072: V1_025
+    2100000: Diffuse__Black_Tip_Reef_Shark_Diffuse_Map_10
+    2100002: Diffuse
+    2100004: Diffuse_Eye__Black_Tip_Reef_Shark_Diffuse_Map_10
+    4300000: BT_Shark_
+    7400000: Default Take
+    7400002: Action
+    9500000: //RootNode
+    13700000: BT_Shark_
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Diffuse
+    second: {fileID: 2100000, guid: 755c87a3f00f4564c818d7f98186f0eb, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: -1
+      lastFrame: 78
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Action
+      takeName: Action
+      firstFrame: -1
+      lastFrame: 78
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
